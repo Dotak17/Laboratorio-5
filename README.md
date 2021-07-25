@@ -2,6 +2,7 @@
 
 1. OBJETIVO GENERAL
 
+Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo con fuentes de corriente y voltaje siguiendo los pasos establecidos para poder  analizar el circuito eléctrico de forma analítica y también de forma experimental mediante el simulador.
 
 2. OBJETIVOS ESPECIFICOS
 
