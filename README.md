@@ -9,7 +9,7 @@
 
 3. MARCOTEORICO
 
-
+![](https://user-images.githubusercontent.com/84998013/126911652-6ca5d5ce-4326-4303-abc9-00f95dd00f35.png)
 
 4. EXPLICACION DEL PROCEDIMIENTO
 
