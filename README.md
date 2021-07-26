@@ -7,6 +7,10 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 2. OBJETIVOS ESPECIFICOS
     
 - Comparar los resultados obtenidos al analizar el circuito por el teorema de thevenin con los resultados dados al  utilizar el simulador 
+
+- Aplicar la  teoría sobres circuitos de Thevenin,  análisis de malla y ley de ohm para obtener los resultados analíticos del presente circuito.
+
+
 3. MARCO TEORICO
 
 ![](https://user-images.githubusercontent.com/84998013/126911652-6ca5d5ce-4326-4303-abc9-00f95dd00f35.png)
@@ -42,6 +46,11 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 ![mediciones 2](https://user-images.githubusercontent.com/84397282/126907504-f74a730c-c343-4611-a4d9-67f0b9fd532b.jpg)
 ![mediciones 1](https://user-images.githubusercontent.com/84397282/126907503-b3918f74-1c8c-43be-8310-a731b59e1922.jpg)
 
+![](https://user-images.githubusercontent.com/84998005/126925588-fe71e89a-636a-4acc-8d1e-18406d70596e.png)
+
+![](https://user-images.githubusercontent.com/84998005/126925586-320868eb-f5b9-4bfd-97b6-ea0b597ddacf.png)
+
+![](https://user-images.githubusercontent.com/84998005/126925589-cd2d4e11-248e-47e3-942b-1986d8680a33.png)
 
   
   
@@ -52,6 +61,8 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 6. CONCLUSIONES
 
 - Este teorema al igual de los ya estudiados nos permite encontrar cualquier tensión o corriente en una red lineal con una o más fuentes. Ya que permite concentrarnos en una porción especifica de la red, reemplazandola con un circuito equivalente
+
+- La aplicación del teorema de Thevenin facilito la resolución del circuito, ya que lo suprime a uno más sencillo para analizar. 
 
 7. BIBLIOGRAFIA
 - ROBERT L. BOYLESTAD ; " Introducción al análisis de circuitos "
