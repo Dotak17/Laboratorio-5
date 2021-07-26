@@ -6,7 +6,7 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 
 2. OBJETIVOS ESPECIFICOS
 
-
+- Comparar los resul obtenidos a l analizar el circuito aplicando el teorema de thevenin  con los obtenidos por medio del simulador 
 
 3. MARCOTEORICO
 
@@ -52,6 +52,8 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 
 6. CONCLUSIONES
 
-
+- Este teorema al igual de los ya estudiados nos permite encontrar cualquier tensión o corriente en una red lineal con una o más fuentes. Ya que permite concentrarnos en una porción especifica de la red, reemplazandola con un circuito equivalente
 
 7. BIBLIOGRAFIA
+- ROBERT L. BOYLESTAD ; " Introducción al análisis de circuitos "
+ 
