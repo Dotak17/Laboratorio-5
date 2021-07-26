@@ -6,7 +6,7 @@ Comprender como aplicar el teorema de Thevenin a cualquier  circuito complejo co
 
 2. OBJETIVOS ESPECIFICOS
     
-- Comparar los resultados obtenidos al analizar el circuito por el teorema de thevenin con los resultados dados al  utilizar simulador 
+- Comparar los resultados obtenidos al analizar el circuito por el teorema de thevenin con los resultados dados al  utilizar el simulador 
 3. MARCO TEORICO
 
 ![](https://user-images.githubusercontent.com/84998013/126911652-6ca5d5ce-4326-4303-abc9-00f95dd00f35.png)
